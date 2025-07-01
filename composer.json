@@ -1,5 +1,5 @@
 {
-    "name": "league/mime-type-detection",
+    "name": "expressionengine/mime-type-detection",
     "description": "Mime-type detection for Flysystem",
     "license": "MIT",
     "authors": [
@@ -28,7 +28,7 @@
     },
     "config": {
         "platform": {
-            "php": "7.4.0"
+            "php": "7.2.5"
         }
     }
 }
