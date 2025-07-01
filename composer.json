@@ -13,7 +13,7 @@
         "phpstan": "vendor/bin/phpstan analyse -l 6 src"
     },
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^7.2 || ^8.0",
         "ext-fileinfo": "*"
     },
     "require-dev": {
